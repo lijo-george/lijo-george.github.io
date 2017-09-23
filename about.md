@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Lijo George. I'm from India and working in Abu Dhabi, United Arab Emirates. My field of work is IT- Systems Integration. As part of my job, I work heavily on Windows Servers and many solutions from Microsoft. As a hobby, I work on Linux and very limited coding.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Overall, I like to play around with servers of all kinds, all day. Learning new things is the only 'thing' that seems to be driving me forward (this is not limited to computing though).
